@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: azureiothub
   labels:
-    purpose: azure iot hub
+    purpose: azure-iot-hub
 spec:
   containers:
   - name: azureiothub
